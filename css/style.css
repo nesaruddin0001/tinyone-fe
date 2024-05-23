@@ -112,6 +112,7 @@ header{
 }
 .f_icon:hover{
     transform: scale(.8);
+    color: #fcdb00; 
 }
 .f_2row_content{}
 .f_2row_content h2{
