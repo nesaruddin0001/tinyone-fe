@@ -3,10 +3,10 @@
 
     /* header start  */
     header{
-        padding: 7px 0 7px;
+        padding: 15px 0 15px;
     }
     .logo a img {
-        width: 65%;
+        width: 70% !important;
     }
     .navbar-toggler{
         padding: 3px 5px !important;
@@ -99,7 +99,7 @@
 
     /* header start  */
     header{
-        padding: 8px 0 8px;
+        padding: 18px 0 18px;
     }
     .menu ul li a{
         padding: 20px 0 0 !important;
@@ -171,7 +171,7 @@
 
     /* header start  */
     header{
-        padding: 10px 0 10px;
+        padding: 20px 0 20px;
     }
     .menu ul li a{
         padding: 20px 0 0 !important;
@@ -219,7 +219,7 @@
 
     /* header start  */
     .menu ul li a {
-        padding: 0 60px 0 0 !important;
+        padding: 0 67px 0 0 !important;
     }
     /* header end  */
 
@@ -248,7 +248,7 @@
 
     /* header start  */
     .menu ul li a {
-        padding: 0 80px 0 0 !important;
+        padding: 0 85px 0 0 !important;
     }
     /* header end  */
 
